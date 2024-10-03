@@ -1,8 +1,4 @@
 @charset "UTF-8";
-html {
-  background-color: pink;
-}
-
 /* Setjum inn „reset“ sem fjarlægir margin og padding af öllu */
 * {
   margin: 0;
